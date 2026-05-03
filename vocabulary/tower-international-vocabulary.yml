@@ -1,0 +1,116 @@
+vocabulary:
+  name: Tower International
+  description: >-
+    Vocabulary for Tower International (now Autokiniton), a global manufacturer
+    of engineered structural metal components and assemblies for the automotive industry.
+  version: 1.0.0
+  created: '2026-05-03'
+  modified: '2026-05-03'
+
+terms:
+  - term: Body-in-White
+    definition: >-
+      The stage of automotive manufacturing where the car body's sheet metal
+      components have been assembled together before painting or moving parts
+      are added. Tower International was the second largest BIW supplier in
+      North America after the Autokiniton merger.
+    domain: Automotive Manufacturing
+    tags:
+      - Automotive
+      - Manufacturing
+
+  - term: Metal Stamping
+    definition: >-
+      A manufacturing process using dies and presses to transform flat metal
+      sheets into specific shapes for automotive body and structural components.
+    domain: Manufacturing
+    tags:
+      - Manufacturing
+      - Metal Forming
+
+  - term: Structural Assembly
+    definition: >-
+      A welded or joined collection of individual metal stampings that together
+      form a structural sub-system of a vehicle such as a floor pan, door ring,
+      or frame rail.
+    domain: Automotive Manufacturing
+    tags:
+      - Automotive
+      - Manufacturing
+
+  - term: OEM
+    definition: >-
+      Original Equipment Manufacturer: an automotive company (e.g., Ford, GM,
+      FCA/Stellantis) that purchases supplier-manufactured components to assemble
+      into finished vehicles.
+    domain: Automotive Industry
+    tags:
+      - Automotive
+
+  - term: Tier 1 Supplier
+    definition: >-
+      A supplier that sells components directly to an OEM vehicle manufacturer.
+      Tower International operated as a Tier 1 structural components supplier.
+    domain: Automotive Supply Chain
+    tags:
+      - Automotive
+      - Supply Chain
+
+  - term: Frame Rail
+    definition: >-
+      A longitudinal structural member of a vehicle's ladder or perimeter frame
+      that runs front-to-back, forming the primary load-bearing backbone.
+    domain: Automotive Components
+    tags:
+      - Automotive
+      - Structural Components
+
+  - term: Autokiniton
+    definition: >-
+      The parent company that acquired Tower International in 2019 and merged
+      it with L&W Group to form the second largest Body-in-White and vehicle
+      frame supplier in North America.
+    domain: Corporate
+    tags:
+      - Automotive
+      - Corporate History
+
+  - term: Progressive Stamping
+    definition: >-
+      A metal forming process in which a strip of metal passes through a series
+      of stations in a progressive die, each performing different operations
+      until the part is complete.
+    domain: Manufacturing
+    tags:
+      - Manufacturing
+      - Metal Forming
+
+  - term: Transfer Stamping
+    definition: >-
+      A stamping process where large individual metal blanks are transferred by
+      mechanical or robotic arms between stations in a large press, used for
+      larger automotive components like doors and hoods.
+    domain: Manufacturing
+    tags:
+      - Manufacturing
+      - Metal Forming
+
+categories:
+  - name: Automotive Manufacturing
+    description: Core automotive body and structural manufacturing concepts
+    terms:
+      - Body-in-White
+      - Structural Assembly
+      - Frame Rail
+  - name: Manufacturing Processes
+    description: Metal forming and manufacturing methods
+    terms:
+      - Metal Stamping
+      - Progressive Stamping
+      - Transfer Stamping
+  - name: Automotive Industry
+    description: Industry roles and relationships
+    terms:
+      - OEM
+      - Tier 1 Supplier
+      - Autokiniton

@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "tower": "https://www.autokiniton.com/vocab#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Manufacturer": "schema:Organization",
+    "name": "schema:name",
+    "description": "schema:description",
+    "location": "schema:location",
+    "parentOrganization": "schema:parentOrganization",
+
+    "AutomotiveComponent": "schema:Product",
+    "componentType": "tower:componentType",
+    "material": "schema:material",
+    "vehicleApplication": "tower:vehicleApplication",
+
+    "ManufacturingFacility": "schema:Place",
+    "facilityId": "@id",
+    "address": "schema:address",
+    "productionCapacity": "tower:productionCapacity",
+
+    "OEM": "schema:Organization",
+    "oemName": "schema:name",
+    "oemVehicles": "tower:suppliedVehicles",
+
+    "BodyInWhite": "tower:BodyInWhite",
+    "stampedPart": "tower:stampedPart",
+    "weldedAssembly": "tower:weldedAssembly",
+    "frameComponent": "tower:frameComponent"
+  }
+}
