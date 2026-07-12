@@ -2,6 +2,8 @@ aid: tower-international
 url: https://raw.githubusercontent.com/api-evangelist/tower-international/refs/heads/main/apis.yml
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tower-international-domain-security.yml
   - type: Website
     url: https://www.autokiniton.com/
   - type: Wikipedia
