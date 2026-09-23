@@ -1,7 +1,9 @@
 ---
 title: Phoenix Tower International Closes on the Acquisition of ...
 url: https://www.prnewswire.com/news-releases/phoenix-tower-international-closes-on-the-acquisition-of-approximately-3-700-sites-from-bouygues-telecom-and-sfr-302649279.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tower International" press release artificial intelligence'
 position: 1
 source: serpapi-google

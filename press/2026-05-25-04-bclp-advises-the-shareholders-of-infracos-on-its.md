@@ -1,7 +1,9 @@
 ---
 title: BCLP advises the shareholders of Infracos on its ...
 url: https://www.bclplaw.com/en-US/events-insights-news/bclp-advises-the-shareholders-of-infracos-on-its-acquisition-by-phoenix-tower-international-pti.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tower International" press release artificial intelligence'
 position: 4
 source: serpapi-google
